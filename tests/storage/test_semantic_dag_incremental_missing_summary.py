@@ -165,4 +165,3 @@ async def test_incremental_missing_summary_triggers_overview_regen(monkeypatch):
 
 if __name__ == "__main__":
     pytest.main([__file__])
-
